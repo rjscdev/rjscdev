@@ -1,4 +1,5 @@
-![undertale_text_box](https://user-images.githubusercontent.com/88680048/146076411-a19ae675-da79-4e08-bd21-2f322fd337bf.gif)
+
+![undertale_text_box (1)](https://user-images.githubusercontent.com/88680048/146084555-ac19e972-5654-4e37-8b06-50afe1996f9e.gif)
 
 
 
