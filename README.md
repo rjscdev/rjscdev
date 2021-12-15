@@ -5,10 +5,11 @@
 
 **Hi there, i'm  Roberto - Robeshiri**
 
-## I'm a ⌨Developer and a 🔞NSFW Digital Artists
+## I'm a ⌨JR.Developer and a 🔞NSFW Digital Artists
 
  - 👽LatinAmerican (please get me out of here)
  - 🦆 Duck lover
+ - 💀17yo 
  - 📦Creating Content
  - 🎓 learning about everything
  - 🌱  Learning all about  **Open Source**
