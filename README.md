@@ -3,9 +3,9 @@
 
 
 
-**Hi there, i'm  Roberto - Robeshiri**
+**Hi there, i'm  Roberto
 
-## I'm a ⌨JR.Developer and a 🔞NSFW Digital Artists
+## I'm a ⌨JR.Developer
 
  - 👽LatinAmerican (please get me out of here)
  - 🦆 Duck lover
@@ -14,7 +14,6 @@
  - 🎓 learning about everything
  - 🌱  Learning all about  **Open Source**
  - 🤑Living my life
- - 🔞Making Hentai LMAO
 ## Hobbies
  - 🎨Drawing
  - 🦍Study new things
