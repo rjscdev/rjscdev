@@ -21,21 +21,32 @@
  **tools⚙:**
  <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/visualstudiocode.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/godotengine.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/unity.svg" /><img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/krita.svg" />
  
- **Technologies💻:**
-**learning🎓:**
+ 
+**Technologies💻:**
+<div style ="display: inline_block" ><br>
+<img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white></img>
+<img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white></img>
+<img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E></img>
+<img src=https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white></img>
+<img src=></img>
+</div>
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nodedotjs.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/nextdotjs.svg" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/angular.svg" />
+**learning🎓:**
+<div style ="display: inline_block" ><br>
+<img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white></img>
+<img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB></img>
+</div>
 
 **I would like to learn🌱:**
-
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg" />
- 
+<img src=https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white></img>
+<img src=https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB></img>
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PgrRjsc&show_icons=true&theme=tokyonight)
 
 <br/>
-
+<div style ="display: inline_block" ><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PgrRjsc)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PgrRjsc.visitor-badge)
+</div>
