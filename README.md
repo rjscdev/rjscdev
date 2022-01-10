@@ -23,12 +23,12 @@
  
  
 **Technologies💻:**
+
 <div style ="display: inline_block" ><br>
 <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white></img>
 <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white></img>
 <img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E></img>
 <img src=https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white></img>
-<img src=></img>
 </div>
 
 **learning🎓:**
@@ -38,15 +38,13 @@
 </div>
 
 **I would like to learn🌱:**
+<div style ="display: inline_block" ><br>
 <img src=https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white></img>
 <img src=https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB></img>
-<br/>
+</div>
 
 <div style ="display: inline_block" ><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PgrRjsc&show_icons=true&theme=tokyonight)
-
-<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PgrRjsc)](https://github.com/anuraghazra/github-readme-stats)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PgrRjsc.visitor-badge)
 </div>
