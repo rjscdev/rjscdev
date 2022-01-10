@@ -42,11 +42,11 @@
 <img src=https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB></img>
 <br/>
 
+<div style ="display: inline_block" ><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PgrRjsc&show_icons=true&theme=tokyonight)
 
 <br/>
-<div style ="display: inline_block" ><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PgrRjsc)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PgrRjsc)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PgrRjsc.visitor-badge)
 </div>
