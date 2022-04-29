@@ -9,6 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjscdev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div align="center" style="display: inline_block"><br>
-  [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,md,vim,git,github,blender,linux)]
+  ![My Skills](https://skillicons.dev/icons?i=py,js,html,css,md,vim,git,github,blender,linux)
 </div>
 
