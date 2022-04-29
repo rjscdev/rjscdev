@@ -7,12 +7,7 @@
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjscdev&count_private=true&theme=tokyonight&show_icons=true)
-  
-</div>
-
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjscdev&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjscdev&theme=tokyonight&layout=compact)
   
 </div>
 
