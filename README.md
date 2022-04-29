@@ -5,9 +5,17 @@
 ## Hi i'm Roberto Sanchez. a Hobbyist developer💻 & an Artist🎨
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rjscdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjscdev&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjscdev&count_private=true&theme=tokyonight&show_icons=true)
+  
 </div>
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjscdev&theme=tokyonight)
+  
+</div>
+
 <div align="center" style="display: inline_block"><br>
   
   ![My Skills](https://skillicons.dev/icons?i=py,js,html,css,md,vim,git,github,blender,linux)
