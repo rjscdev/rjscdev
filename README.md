@@ -14,6 +14,7 @@
 <div align="center" style="display: inline_block"><br>
   
   ![My Skills](https://skillicons.dev/icons?i=py,js,html,css,md,vim,git,github,blender,linux)
-
+  ![renpy](https://user-images.githubusercontent.com/88680048/167714506-8395432c-6bbc-4b37-8739-8bb3794fbddf.svg)
 </div>
+
 
