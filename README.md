@@ -6,7 +6,7 @@ Hi! my name is roberto sanchez, i'm a developer born in guatemala 🇬🇹. i lo
 
 **Gender:** `♂️`
 
-**Age:** `🗿18`
+**Age:** `🗿19`
 
 **nationality:** `🇬🇹`
 
@@ -30,13 +30,6 @@ Hi! my name is roberto sanchez, i'm a developer born in guatemala 🇬🇹. i lo
 
 ## technologies I'm learning 🤓📖✏️
 ![My Skills](https://skillicons.dev/icons?i=php,laravel,ts,jenkins)
-</div>
-
-<div align="center" style="display: inline_block"><br>
-  
-#### my friend 💖
-![jeychiquito](https://user-images.githubusercontent.com/88680048/231600100-6a5e4f42-82ae-4b2c-997d-3436025587e5.png)💕
-
 </div>
 
 
