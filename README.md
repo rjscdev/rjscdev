@@ -11,8 +11,6 @@ Im a teacher at Liceo Juan Mantovani in Guatemala city.
 
 **nationality:** `🇬🇹`
 
-**Likes:** `video games🎮, anime, and cute and funny things 😭`
-
 <div align="center">
   
 ## My Stats🤓📈:
