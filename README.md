@@ -23,7 +23,7 @@ Im a teacher at Liceo Juan Mantovani in Guatemala city.
 
 ## My tools and technologies 🧑‍💻📦⚙️
   
-  ![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript,nodejs,react,tailwind,discordjs,cs,cpp,python,qt,git,github)
+  ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,react,tailwind,discordjs,cs,cpp,python,qt,git,github)
   ![renpy](https://user-images.githubusercontent.com/88680048/167714506-8395432c-6bbc-4b37-8739-8bb3794fbddf.svg)
 
 
